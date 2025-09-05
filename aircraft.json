@@ -1,0 +1,30 @@
+{
+  "name": "Lamborghini Aventador SV",
+  "author": "YourName",
+  "model": "aventador.gltf",
+  "textures": [],
+  "type": "aircraft",
+  "engine": {
+    "type": "car",
+    "maxRpm": 8000,
+    "power": 566
+  },
+  "mass": 1575,
+  "geometry": {
+    "length": 4.8,
+    "wingspan": 2.2,
+    "height": 1.1
+  },
+  "ground": {
+    "gear": [
+      { "pos": [1.8, -1, 0.3], "diameter": 0.6 },
+      { "pos": [-1.8, -1, 0.3], "diameter": 0.6 },
+      { "pos": [0, 1, 0.3], "diameter": 0.6 }
+    ]
+  },
+  "controls": {
+    "throttle": true,
+    "steering": true,
+    "brakes": true
+  }
+}
