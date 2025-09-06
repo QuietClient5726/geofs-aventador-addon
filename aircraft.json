@@ -1,34 +1,8 @@
 {
-  "name": "Lamborghini Aventador LP 700-4",
-  "aircraft": [
-    {
-      "model": "aventador.gltf",
-      "mass": 1575,
-      "engine": {
-        "type": "piston",
-        "power": 750,
-        "maxRpm": 8500
-      },
-      "gear": [
-        {
-          "pos": [2.0, -0.9, 1.5],
-          "radius": 0.35,
-          "steering": true
-        },
-        {
-          "pos": [-2.0, -0.9, 1.5],
-          "radius": 0.35,
-          "steering": true
-        },
-        {
-          "pos": [1.8, -0.9, -1.6],
-          "radius": 0.35
-        },
-        {
-          "pos": [-1.8, -0.9, -1.6],
-          "radius": 0.35
-        }
-      ]
-    }
-  ]
+  "id": 319,
+  "name": "Lamborghini Aventador SV",
+  "fullPath": "https://quietclient5726.github.io/geofs-aventador-addon/",
+  "isPremium": 0,
+  "isCommunity": 0,
+  "definition": "eyJtb2RlbCI6Im1vZGVsL2F2ZW50YWRvci5nbHRmIiwibWFzcyI6MTUwMCwiZW5naW5lIjp7InR5cGUiOiJjYXIiLCJwb3dlciI6NzcwfSwiYWVyb2R5bmFtaWNzIjp7ImRyYWciOjAuMzIsImxpZnQiOjB9fQ=="
 }
